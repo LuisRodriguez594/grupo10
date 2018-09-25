@@ -1,5 +1,6 @@
 [Esto es un tutorial de los comandos básicos] (https:https://github.com/LuisRodriguez594/grupo10)
 
+*COMANDOS BASICOS I*
 **Iniciar Repositorio en un directorio**
 `git init`
 **Agregar cambios al area de staging**
@@ -10,4 +11,16 @@
 `git  commit  -am "Mensaje"`
 **Historial de commits**
 `git log`
+
+*COMANDOS BASICOS II*
+**Ayuda del listado anterior**
+`git  help  log`
+**Listar los 5 commits mas recientes**
+`git  log -n 5`
+**Listar los commits desde una fecha**
+`git  log  --since =2018 -09 -18`
+**Listar los commits por autor**
+`git  log  --author =" Antonio"`
+**Ver cambios en el directorio**
+`git  status`
 
