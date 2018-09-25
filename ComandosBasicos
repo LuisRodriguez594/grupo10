@@ -24,3 +24,14 @@
 **Ver cambios en el directorio**
 `git  status`
 
+*COMANDOS BASICOS III*
+**Ver diferencia entre  cheros en el directorio y el repositorio de git**
+`git  diff`
+**Ver diferencia entre  cheros en el staging y el repositorio**
+`git  diff  --staged`
+**Eliminar archivos**
+`git rm  archivo`
+`git  commit  -m "Mensaje"`
+**Mover o renombrar archivos**
+`git mv  antiguo  nuevo`
+`git  commit  -m "Mensaje"`
