@@ -1,7 +1,11 @@
-# grupo 10
-1. Juan Pedro Torralbo Mejias *i62tomep@uco.es*
-2. Luis Rodriguez Ramirez *m42roral@uco.es*
+**Esto es un tutorial que contiene comandos para ramas y GitHub**
 
-**Direccion del repositorio gitHub**: [URL del repositorio](https://github.com/LuisRodriguez594/grupo10)
+# Ramas 
 
-archivo editado desde la rama ramaLuis
+## Comandos ramas 1
+
+1. Ver listado de ramas: `git branch`
+2. Crear una rama: `git branch nombre_rama`
+3. Cambiarnos a una rama: `git checkout nombre_rama`
+4. Crear una rama y movernos en un paso: `git checkout -b nombre_rama`
+5. Comparar ramas: `git diff nombre_rama..nombre_rama`
