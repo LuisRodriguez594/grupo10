@@ -65,4 +65,15 @@
 **Ignorar archivos en el repositorio**
 `.gitignore`
 
+## COMANDOS BASICOS VI
+
+**Listar el contenido del repositorio de git**
+`git ls-tree  master`
+`git ls-tree  master ^^^`
+`git ls-tree  master ~3`
+**Log en una l ́ınea**
+`git  log  --oneline`
+**Log con los tres  ́ultimos commits en una línea**
+`git  log  --oneline  -3`
+
 
