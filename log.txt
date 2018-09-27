@@ -1,0 +1,96 @@
+commit 0f3468fad4fdfc6ce9d16f07ea2735065bcfc20d
+Author: Luis Rodriguez Ramirez <m42roral@uco.es>
+Date:   Tue Sep 25 21:45:50 2018 +0200
+
+    final del tutorial
+
+commit cb06ae63bca139cce082e2eecac8c1af92e5319b
+Author: Luis Rodriguez Ramirez <m42roral@uco.es>
+Date:   Tue Sep 25 21:19:04 2018 +0200
+
+    comentadas todas las ramas
+
+commit 631db86f9b730199640963494961d95761889dcb
+Author: Luis Rodriguez Ramirez <m42roral@uco.es>
+Date:   Tue Sep 25 20:57:56 2018 +0200
+
+    ramas I
+
+commit b5ee01d7b5df6cba029f5288efc1f559abe106f3
+Author: LuisRodriguez594 <43370428+LuisRodriguez594@users.noreply.github.com>
+Date:   Tue Sep 25 20:45:44 2018 +0200
+
+    Update g10.md
+
+commit 535fcb387dca19d4b814941a52ef4f4feb3c548a
+Author: Luis Rodriguez Ramirez <m42roral@uco.es>
+Date:   Tue Sep 25 20:43:56 2018 +0200
+
+    Practica 1
+
+commit 00805b599662e4caa9b32ce0abc69134dfb8f74c
+Author: Luis Rodriguez Ramirez <m42roral@uco.es>
+Date:   Tue Sep 25 20:26:45 2018 +0200
+
+    cambiado el nombre para la practica 1
+
+commit 0028043ba81ca5019afc33d50ce2220289c37927
+Author: Luis Rodriguez Ramirez <m42roral@uco.es>
+Date:   Tue Sep 25 20:05:50 2018 +0200
+
+    prueba en el tutorial
+
+commit afb14506d2b8fc040bba54fab42b5cd567f1e602
+Merge: 6401294 b3dd8c9
+Author: Juanpe Torralbo <i62tomep@uco.es>
+Date:   Tue Sep 25 10:55:00 2018 +0200
+
+    Merge branch 'master' of https://github.com/LuisRodriguez594/grupo10 into comandos_basicos
+
+commit b3dd8c94b4848fe0e6da7da0bce4c13d3b544547
+Author: Luis Rodriguez Ramirez <m42roral@uco.es>
+Date:   Tue Sep 25 10:52:05 2018 +0200
+
+    Introducido archivo1
+
+commit 64012949fec2b8d1b798974bff7381b711a4d305
+Author: Juanpe Torralbo <i62tomep@uco.es>
+Date:   Tue Sep 25 10:37:20 2018 +0200
+
+    Añadido Comandos Basicos III
+
+commit 4be5e642067034df2fa62494c64749359c0eaa87
+Author: Juanpe Torralbo <i62tomep@uco.es>
+Date:   Tue Sep 25 10:34:40 2018 +0200
+
+    Añadido Comandos Basicos II
+
+commit 2017e79e1221c837e647841a8e9a3a6646f9fa85
+Author: Juanpe Torralbo <i62tomep@uco.es>
+Date:   Tue Sep 25 10:24:48 2018 +0200
+
+    Edicion comandos basicos
+
+commit 4cba01f1c7db97ffe15a1af0afd0bfc3c76bd646
+Author: Juanpe Torralbo <i62tomep@uco.es>
+Date:   Tue Sep 25 10:20:16 2018 +0200
+
+    Comandos Basicos I
+
+commit 0a707b53ed494a404a4c9061b260dcf21e71145a
+Author: JuanpeTorralbo <43370402+JuanpeTorralbo@users.noreply.github.com>
+Date:   Tue Sep 25 08:05:42 2018 +0000
+
+    Update TUTORIAL.md
+
+commit 2bdc8cf33c1676abeed07838b26b5a79e1ff4cfe
+Author: JuanpeTorralbo <43370402+JuanpeTorralbo@users.noreply.github.com>
+Date:   Tue Sep 25 08:04:28 2018 +0000
+
+    Update TUTORIAL.md
+
+commit 705eb8e534e72c39a6b2518913616ee58903a679
+Author: Juanpe Torralbo <i62tomep@uco.es>
+Date:   Tue Sep 25 09:54:46 2018 +0200
+
+    Primer commit
