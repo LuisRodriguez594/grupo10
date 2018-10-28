@@ -2,7 +2,7 @@
 Tenemos un caso en el cual, un cliente (profesor) nos pide que realicemos una aplicación para que él mismo pueda gestionar una base de datos de los alumnos de su clase. El profesor nos explica todo lo que quiere que la aplicación realice:
 
 1. Insertar alumnos en la base de datos: Insertar varios alumnos, a los que habrá que añadir un mínimo de datos que son:
-  1.1. DNI
+  1.1 DNI
   1.2. nombre
   1.3. apellidos
   Además de estos, el cliente podrá añadir todos los campos que quiera, siendo el total de datos el siguiente:
