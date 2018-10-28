@@ -1,5 +1,6 @@
 **Aqui se expondrán los requisitos del programa que queremos realizar en la practica 2**
-Tenemos un caso en el cual, un cliente (profesor) nos pide que realicemos una aplicación para que él mismo pueda gestionar una base de datos de los alumnos de su clase. El profesor nos explica todo lo que quiere que la aplicación realice:
+Tenemos un caso en el cual, un cliente (profesor) nos pide que realicemos una aplicación para que él mismo pueda gestionar una base de datos de los alumnos de su clase. Este análisis tiene que ser lo suficientemente intuitivo para los clientes y expertos en el dominio, y lo suficientemente formal y riguroso para no generar ambigüedad a la hora de desarrollar el sistema, lo cual solo se logrará si tenemos en claro que los requerimientos deben expresar detalladamente la funcionalidad, el qué debe hacer el sistema para cubrir las necesidades del cliente, y la calidad del servicio del producto que se desarrolla.
+El profesor nos explica todo lo que quiere que la aplicación realice:
 
 **Requisitos del usuario**
 
