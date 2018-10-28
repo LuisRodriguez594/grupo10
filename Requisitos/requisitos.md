@@ -2,17 +2,17 @@
 Tenemos un caso en el cual, un cliente (profesor) nos pide que realicemos una aplicación para que él mismo pueda gestionar una base de datos de los alumnos de su clase. El profesor nos explica todo lo que quiere que la aplicación realice:
 
 1. Insertar alumnos en la base de datos: Insertar varios alumnos, a los que habrá que añadir un mínimo de datos que son:
-    1.1. DNI
-    1.2. Nombre 
-    1.3. Apellidos  
-  Además de estos, el cliente podrá añadir todos los campos que quiera, siendo el total de datos el siguiente:
-    1.4. Teléfono personal
-    1.5. E-mail corporativo (UCO)
-    1.6. Dirección postal
-    1.7. Curso más alto en el que está matriculado
-    1.8. Fecha de nacimiento
-    1.9. Número del equipo en el que está enrolado
-    1.10. Saber finalmente si es el líder o no de este equipo
+    1.1. DNI    
+    1.2. Nombre     
+    1.3. Apellidos    
+  Además de estos, el cliente podrá añadir todos los campos que quiera, siendo el total de datos el siguiente:  
+    1.4. Teléfono personal  
+    1.5. E-mail corporativo (UCO)   
+    1.6. Dirección postal   
+    1.7. Curso más alto en el que está matriculado  
+    1.8. Fecha de nacimiento    
+    1.9. Número del equipo en el que está enrolado  
+    1.10. Saber finalmente si es el líder o no de este equipo   
 
 2. Mostrar alumnos: opción que nos enseñe todos los alumnos que existen en la base de datos.
 
