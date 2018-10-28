@@ -33,10 +33,10 @@ Tenemos un caso en el cual, un cliente (profesor) nos pide que realicemos una ap
 6. Borrar base de datos: En el caso de que el cliente quiera borrar su base de datos, esta opción lo permitirá. Antes de realizar el borrado de la base de datos, se le preguntará al usuario si está completamente seguro de querer borrarla, ya que puede seleccionar esta opción por error y perder todo el trabajo que haya realizado hasta el momento.   
 
 7. Ordenar base de datos: Esta función permitirá al usuario ordenar la base de datos de acuerdo a los campos que quiera introducir, como puede ser:   
-  7.1. Ordenar por cursos
-  7.2. Ordenar por edad
-  7.3. Ordenar por número de grupo  
-  7.4. Ordenar por apellidos  
+  7.1. Ordenar por cursos   
+  7.2. Ordenar por edad 
+  7.3. Ordenar por número de grupo      
+  7.4. Ordenar por apellidos      
   7.5. Ordenar por DNI  
   Además, después de ordenar la base de datos, la aplicación deberá mostrar la base para comprobar que se ordenó correctamente.
 
