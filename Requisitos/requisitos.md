@@ -37,6 +37,7 @@ Tenemos un caso en el cual, un cliente (profesor) nos pide que realicemos una ap
   7.2. Ordenar por edad
   7.3. Ordenar por número de grupo  
   7.4. Ordenar por apellidos  
+  7.5. Ordenar por DNI  
   Además, después de ordenar la base de datos, la aplicación deberá mostrar la base para comprobar que se ordenó correctamente.
 
 8. Salir de la aplicación.
@@ -51,4 +52,13 @@ Esta sección tratará los requisitos que el usuario demanda en la aplicación q
 * El máximo de alumnos será de 150.
 * Se realizará una copia de seguridad cada cierto tiempo del fichero que realicemos con la aplicación.
 * En cada grupo de trabajo solo podrá haber un líder, por lo que necesitaremos controlar el error en caso de que coincidan dos en un solo grupo.
+
+**Requisitos del sistema**
+
+*Requisitos funcionales*
+
+Servicios que proporcionará el sistema, además de especificar el comportamiento que debe tener el sistema ante determinadas entradas, y decir que no debe hacer.
+
+* El sistema estará codificado con un lenguaje simple, para que tanto el cliente como cualquier persona que quisiera utilizarlo, pudiera hacerlo sin ningún tipo de problema.
+* El usuario deberá de tener la posibilidad de insertar todos los alumnos que quiera, introduciendo unos campos de información mínimos, y pudiendo insertar los alumnos desde esos campos hasta el total (10).
 *
