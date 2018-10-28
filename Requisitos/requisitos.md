@@ -20,6 +20,7 @@ Tenemos un caso en el cual, un cliente (profesor) nos pide que realicemos una ap
   3.1. Apellidos
   3.2. DNI
   En el caso de crear conflicto por coincidencia de apellidos, si es el campo buscado, se mostrarán los alumnos que coincidan, y se permitirá realizar al cliente una segunda búsqueda en la que podrá introducir los campos completos/correctos.
+  
   3.3. Si la búsqueda fuera errónea, permitir una segunda búsqueda que permita la correcta introducción de datos.
 
 4. Modificar alumno: Esta opción nos permitirá realizar una búsqueda igual que en la opción anterior, pero en este caso el cliente podrá modificar los datos del alumno buscado. 
