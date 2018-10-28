@@ -61,4 +61,15 @@ Servicios que proporcionará el sistema, además de especificar el comportamient
 
 * El sistema estará codificado con un lenguaje simple, para que tanto el cliente como cualquier persona que quisiera utilizarlo, pudiera hacerlo sin ningún tipo de problema.
 * El usuario deberá de tener la posibilidad de insertar todos los alumnos que quiera, introduciendo unos campos de información mínimos, y pudiendo insertar los alumnos desde esos campos hasta el total (10).
-*
+* El usuario deberá ser capaz de leer en la pantalla todos los alumnos de la base de datos, así como pedir que se muestren por grupos, por ejemplo.
+* El usuario será capaz de buscar alumnos según distintos campos, como puede ser el DNI y los apellidos de dichos alumnos. En caso de conflicto (antes descrito), el sistema realizará una segunda búsqueda para poder buscar correctamente algun alumno concreto.
+* El sistema permitirá que el cliente sea capaz de hacer una búsqueda(igual que en el punto anterior), y que modifique los campos que desee.
+* En este caso, la búsqueda se realiza de la misma forma pero, para evitar borrados innecesarios, se preguntará si se desea borrar antes de hacerlo, y además en caso de conflicto, igualmente se realizará una segunda búsqueda para evitar que se borrren varios alumnos de la base de datos.
+* El usuario debe ser capaz de ordenar la base de datos según el campo que desee, ya sea por curso, DNI, orden alfabético, o por grupo de trabajo, por ejemplo.
+
+*Requisitos no funcionales*
+
+* El sistema debe permitir un borrado completo de la base de datos, ya que el cliente en algún momento puede llegar a necesitarlo.
+* El sistema estará basado en Linux, y a su vez se cargará en un sistema binario, por su mayor facilidad para realizar una base de datos.
+* El máximo de alumnos, es decir, el tamaño máximo de la base de datos será de 150 alumnos.
+* 
