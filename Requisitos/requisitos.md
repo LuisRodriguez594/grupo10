@@ -1,4 +1,4 @@
-**Aqui haremos los requisitos del programa que queremos realizar en la practica 2**
+**Aqui se expondrán los requisitos del programa que queremos realizar en la practica 2**
 Tenemos un caso en el cual, un cliente (profesor) nos pide que realicemos una aplicación para que él mismo pueda gestionar una base de datos de los alumnos de su clase. El profesor nos explica todo lo que quiere que la aplicación realice:
 
 **Requisitos del usuario**
@@ -62,7 +62,7 @@ Servicios que proporcionará el sistema, además de especificar el comportamient
 * El sistema estará codificado con un lenguaje simple, para que tanto el cliente como cualquier persona que quisiera utilizarlo, pudiera hacerlo sin ningún tipo de problema.
 * El usuario deberá de tener la posibilidad de insertar todos los alumnos que quiera, introduciendo unos campos de información mínimos, y pudiendo insertar los alumnos desde esos campos hasta el total (10).
 * El usuario deberá ser capaz de leer en la pantalla todos los alumnos de la base de datos, así como pedir que se muestren por grupos, por ejemplo.
-* El usuario será capaz de buscar alumnos según distintos campos, como puede ser el DNI y los apellidos de dichos alumnos. En caso de conflicto (antes descrito), el sistema realizará una segunda búsqueda para poder buscar correctamente algun alumno concreto.
+* El usuario será capaz de buscar alumnos según distintos campos, como puede ser el DNI y los apellidos de dichos alumnos. En caso de conflicto (antes descrito), el sistema realizará una segunda búsqueda para poder buscar correctamente algún alumno concreto.
 * El sistema permitirá que el cliente sea capaz de hacer una búsqueda(igual que en el punto anterior), y que modifique los campos que desee.
 * En este caso, la búsqueda se realiza de la misma forma pero, para evitar borrados innecesarios, se preguntará si se desea borrar antes de hacerlo, y además en caso de conflicto, igualmente se realizará una segunda búsqueda para evitar que se borrren varios alumnos de la base de datos.
 * El usuario debe ser capaz de ordenar la base de datos según el campo que desee, ya sea por curso, DNI, orden alfabético, o por grupo de trabajo, por ejemplo.
@@ -72,4 +72,10 @@ Servicios que proporcionará el sistema, además de especificar el comportamient
 * El sistema debe permitir un borrado completo de la base de datos, ya que el cliente en algún momento puede llegar a necesitarlo.
 * El sistema estará basado en Linux, y a su vez se cargará en un sistema binario, por su mayor facilidad para realizar una base de datos.
 * El máximo de alumnos, es decir, el tamaño máximo de la base de datos será de 150 alumnos.
-* 
+* Las funcionalidades del sistema deben responder adecuadamente, es decir, la inserción, modificación, borrado y búsqueda de alumnos se deberían de realizar en menos de un segundo desde que se introduce la información por teclado.
+* El sistema operará adecuadamente, ya que este está adecuado a que lo utilice solamente el cliente.
+* El sistema realizará una copia de seguridad cada 2 minutos, para que si la computadora sufre un corte de electricidad, por ejemplo, el progreso del cliente esté asegurado todo lo posible.
+* La aplicación será sencilla de utilizar siempre, ya que no siempre los clientes tendrán conocimientos de informática. Dicho esto, el tiempo de aprendizaje para utilizar esta aplicación debe de ser muy muy corto.
+* El sistema, al ejecutarse, estará bien comentado con los pasos que deba dar el cliente. Además debe tener una interfaz gráfica agradable.
+*  La base de datos no ocupará mucho espacio, para que sea sencillo poder llevarla de una computadora a otra o así mismo poder llevarla copiada en sistemas de almacenamiento externo.
+*
