@@ -34,8 +34,8 @@ Tenemos un caso en el cual, un cliente (profesor) nos pide que realicemos una ap
 
 7. Ordenar base de datos: Esta función permitirá al usuario ordenar la base de datos de acuerdo a los campos que quiera introducir, como puede ser:   
   7.1. Ordenar por cursos   
-  7.2. Ordenar por edad 
-  7.3. Ordenar por número de grupo      
+  7.2. Ordenar por edad     
+  7.3. Ordenar por número de grupo            
   7.4. Ordenar por apellidos      
   7.5. Ordenar por DNI  
   Además, después de ordenar la base de datos, la aplicación deberá mostrar la base para comprobar que se ordenó correctamente.
@@ -78,4 +78,3 @@ Servicios que proporcionará el sistema, además de especificar el comportamient
 * La aplicación será sencilla de utilizar siempre, ya que no siempre los clientes tendrán conocimientos de informática. Dicho esto, el tiempo de aprendizaje para utilizar esta aplicación debe de ser muy muy corto.
 * El sistema, al ejecutarse, estará bien comentado con los pasos que deba dar el cliente. Además debe tener una interfaz gráfica agradable.
 *  La base de datos no ocupará mucho espacio, para que sea sencillo poder llevarla de una computadora a otra o así mismo poder llevarla copiada en sistemas de almacenamiento externo.
-*
