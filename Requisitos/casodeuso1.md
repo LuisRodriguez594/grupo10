@@ -1,8 +1,8 @@
-**Insertar Alumno**
+*Insertar Alumno*
 
-*ID:001*  
-*Breve Descripcion:* _El sistema insertará un alumno_  
-*Actores principales:* Alumno  
+**ID:001** 
+**Breve Descripcion:** _El sistema insertará un alumno_  
+**Actores principales:** Alumno  
 ---------------------------------------------------------
 *Precondiciones:* No debe haber otro alumno con el mismo nombre
 ---------------------------------------------------------
