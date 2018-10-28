@@ -37,5 +37,18 @@ Tenemos un caso en el cual, un cliente (profesor) nos pide que realicemos una ap
   7.2. Ordenar por edad
   7.3. Ordenar por número de grupo  
   7.4. Ordenar por apellidos  
+  Además, después de ordenar la base de datos, la aplicación deberá mostrar la base para comprobar que se ordenó correctamente.
 
-8.
+8. Salir de la aplicación.
+
+
+**Requisitos del usuario**
+
+Esta sección tratará los requisitos que el usuario demanda en la aplicación que deberemos crear.
+
+* Los 8 puntos antes expuestos son lo que el cliente nos pide que hagamos, principalmente.  
+* El usuario requiere que la aplicación sea en sistema Linux.
+* El máximo de alumnos será de 150.
+* Se realizará una copia de seguridad cada cierto tiempo del fichero que realicemos con la aplicación.
+* En cada grupo de trabajo solo podrá haber un líder, por lo que necesitaremos controlar el error en caso de que coincidan dos en un solo grupo.
+*
