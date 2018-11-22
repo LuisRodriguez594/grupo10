@@ -2,7 +2,7 @@
 
 ## **ID:003** 
 ## **Breve Descripcion:** _El sistema buscará un alumno_  
-## **Actores principales**: _Alumno_
+## **Actores principales**: _Profesor,Coordinador,Ayudante_
 ---------------------------------------------------------
 
 ## **Precondiciones:** El alumno debe existir en la base de datos
