@@ -2,7 +2,7 @@
 
 ## **ID:004** 
 ## **Breve Descripcion:** _El sistema modificará a un alumno_  
-## **Actores principales**: _Alumno_
+## **Actores principales**: _Profesor,Ayudante,Coordinador_
 ---------------------------------------------------------
 
 ## **Precondiciones:** Debe existir el alumno en la base de datos
